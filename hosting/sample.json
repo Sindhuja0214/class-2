@@ -1,0 +1,24 @@
+[
+    {
+        "name": "tami",
+        "id": 1,
+        "isMenber": true,
+        "pos": "mentor"
+
+    }
+    {
+        "name": "sindhu",
+    "id": 2,
+    "isMenber": true,
+    "pos": "student"
+}
+    
+
+
+{
+    "name": "Naini",
+    "id": 3,
+    "isMenber": true,
+    "pos": "student"
+}
+]
