@@ -1,4 +1,4 @@
-
+// country flag
   fetch("https://restcountries.com/v3.1/all")
     .then(response => response.json())
     .then(data => {
@@ -11,7 +11,7 @@
   });
 
 
-
+// country name,region,subregion,population
 
 
 
@@ -35,11 +35,11 @@
 
 
 
+//
 
 
 
-
-
+// true 
 let obj1 = { name: "person1", age: 5 };
 let obj2 = { age: 5, name: "person1" };
 
