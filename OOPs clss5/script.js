@@ -83,7 +83,3 @@ console.log(HpLaptop)
 HpLaptop.getDetails();
 HpLaptop.getPname();
 
-
-
-
-
